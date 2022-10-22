@@ -1,0 +1,41 @@
+/*Sobre mi*/
+
+#title{
+	width: 70%;
+	margin: 0px auto;
+	text-align: center;
+	margin-bottom: 46px;
+	margin-top: 20px;
+}
+h1{
+	font-family: "finger";
+	font-size: 40px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 20px;
+}
+
+#title h2{
+	font-size: 25px;
+	color: gray;
+	margin-top: 8px;
+	margin-bottom: 13px;
+}
+article{
+	width: 70%;
+	margin: 0px auto;
+	margin-bottom: 20px;
+	font-size: 23px;
+}
+article h2{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+}
+article p{
+	padding-top: 5px;
+	padding-bottom: 10px;
+	text-indent: 9px;
+	letter-spacing: 1px;
+	line-height: 1;
+	text-align: justify;
+}
